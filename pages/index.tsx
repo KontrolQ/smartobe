@@ -9,7 +9,7 @@ import styles from "../styles/Home.module.css";
 const Home: NextPage = () => {
   return (
     <React.Fragment>
-      <div>Hello world of Smartobe</div>
+      <div className="container">Hello world of Smartobe</div>
     </React.Fragment>
   );
 };
